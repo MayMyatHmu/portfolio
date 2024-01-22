@@ -1,0 +1,38 @@
+.bg-darkblue{
+  background-color: #0b1426;
+}
+.text-darkblue{ 
+  color: #0b1426;
+}
+.bg-blue{ 
+  background-color: #0b1f47;
+}
+.text-blue{ 
+  color: #0b1f47;
+}
+#hero{ 
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.underline{ 
+  background-color: red;
+  padding: 4px 5px;
+  max-width: 10%;
+  border-radius: 30px;
+}
+.card-shadow{ 
+  box-shadow: 1px 1px 4px #4e52d6;
+}
+.input{ 
+  background: #0b1426;
+  color: white;
+  border: none;
+  box-shadow: 1px 4px #336bdb;
+}
+.input::placeholder{ 
+  color: gray;
+}
+.input:focus{ 
+  background-color: #0b1426;
+  color: #fff;
+}
